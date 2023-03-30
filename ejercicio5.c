@@ -17,7 +17,7 @@ int main(){
     if(total >= 10){
         printf("Te capturaremos 626!!!\n");
     }else{
-        printf("Maldito hamster incopetente\n");
+        printf("Maldito hamster incompetente\n");
     }
     
     return 0;
