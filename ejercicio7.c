@@ -37,3 +37,38 @@ int main(){
 
 	return 0;
 }
+
+/*Con un switch-------------
+
+
+    switch(epoca) {
+        case ENERO:
+            if(paisaje == LAGUNA) {
+                printf("Chip\n");
+            } else if (paisaje == MONTANA) {
+                printf("Dale\n");
+            } else {                
+                printf("Gadget\n");
+            }
+            break;
+        case FEBRERO:
+            if(paisaje == MONTANA) {
+                printf("Chip\n");
+            } else if (paisaje == PLAYA) {
+                printf("Dale\n");
+            } else {                
+                printf("Gadget\n");
+            }
+            break;
+        case MARZO:
+            if(paisaje == PLAYA) {
+                printf("Chip\n");
+            } else if (paisaje == LAGUNA) {
+                printf("Dale\n");
+            } else {                
+                printf("Gadget\n");
+            }
+            break;
+
+
+*/
